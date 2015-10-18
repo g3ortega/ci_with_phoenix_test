@@ -1,4 +1,6 @@
-# ElixirFriends
+# Elixir test with CI
+
+[![Build Status](https://semaphoreci.com/api/v1/projects/32ca606b-8a0d-4076-8e9d-e71aa6142f95/573848/badge.svg)](https://semaphoreci.com/g3ortega/ci_with_phoenix_test)
 
 To start your Phoenix app:
 
